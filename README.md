@@ -7,8 +7,13 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 
 ## 👥 Integrantes
 
-- **Nombre del Integrante 1**  
-- **Nombre del Integrante 2**
+- **Goran Acurio Cabrera**  
+- **Gabriela Barrios Cuentas**
+- **Jorge Briceño Hijar**
+- **Marco Baltazar**
+- **Camila Araujo**
+- **Katherin Berrios**
+- 
 
 ---
 
