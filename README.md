@@ -20,4 +20,4 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 
 | Integrante 1 |
 |--------------|
-| <img src="ruta/imagen1.jpg" alt="Integrante 1" width="200"/> |
+| <img src="https://github.com/Gabylvc/Proyecto/commit/b8adafd590ad4f70c517d81892e733df35037f2f#diff-7f3cf5257981b332b1606ca1a74f0770534e14439e30016853bd6e8aed3df0eb" alt="Integrante 1" width="200"/> |
