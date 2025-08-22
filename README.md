@@ -27,7 +27,7 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 ## Temática
 
 En este proyecto nos enfocamos en la artritis reumatoide. La artritis reumatoide (AR) es una patología multifactorial autoinmune asociada con un proceso de inflamación crónico que afecta tanto articulaciones como órganos extraarticulares.[1]
-
+a
 ## Problemática
 
 ## Justificación
