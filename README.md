@@ -26,11 +26,11 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 
 ## Temática
 
-En este proyecto nos enfocamos en la artritis reumatoide. La artritis reumatoide (AR) es una patología multifactorial autoinmune asociada con un proceso de inflamación crónico que afecta tanto articulaciones como órganos extrarticulares,[1] por lo que se considera una enfermedad sistemática. Asimismo, los síntomas del AR incluyen dolor, inflamación y rigidez en las articulaciones, las cuales al no ser tratadas en su debido tiempo, pueden generar deformación y limitación de movilidad afectando la calidad de vida de los pacientes.
+En este proyecto nos enfocamos en la artritis reumatoide.
 
 
 ## Problemática
-
+La artritis reumatoide (AR) es una patología multifactorial autoinmune asociada con un proceso de inflamación crónico que afecta tanto articulaciones como órganos extrarticulares,[1] por lo que se considera una enfermedad sistemática. Asimismo, los síntomas del AR incluyen dolor, inflamación y rigidez en las articulaciones, las cuales al no ser tratadas en su debido tiempo, pueden generar deformación y limitación de movilidad afectando la calidad de vida de los pacientes.
 ## Justificación
 A partir del análisis de varios estadísticos, se ha encontrado que la AR es un importante problema de salud pública. Debido a que, es la causa médica más común de pérdida de funcionalidad relacionada con la movilidad en los adultos en los Estados Unidos. Además, se ha encontrado que los costos de prevenir la AR mediante la reducción de factores de riesgo o tratamiento preventivo es mucho menor que los generados por la hospitalización y las cirugías.[1]
 
