@@ -26,7 +26,7 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 
 ## Temática
 
-En este proyecto se busca
+En este proyecto nos enfocamos en la artritis reumatoide
 
 ## Problemática
 
