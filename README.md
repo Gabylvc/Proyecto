@@ -12,7 +12,7 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 - **Jorge Briceño Hijar**
 - **Marco Baltazar**
 - **Camila Araujo**
-- **Katherin Berrios**
+- **Katherin Berrio**
 - 
 
 ---
