@@ -24,6 +24,12 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 
 ---
 
-## Tema de interés
+## Temática
 
-En este proyecto se busca miau miau
+En este proyecto se busca
+
+## Problemática
+
+## Justificación
+
+## Referencias
