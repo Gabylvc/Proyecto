@@ -21,3 +21,9 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 | Grupo de trabajo|
 |--------------|
 | <img src="Imagenes/minecfraft.jpg" alt="foto" width="800"/> |
+
+---
+
+## Tema de interés
+
+En este proyecto se busca miau miau
