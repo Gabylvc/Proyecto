@@ -1,6 +1,6 @@
 # 🧬 Fundamentos de Biodiseño
 
-Este proyecto forma parte del curso **Fundamentos de Biodiseño**.  
+Este proyecto forma parte del curso **Fundamentos de Biodiseño** del grupo 11.  
 A continuación, se presentan los integrantes del equipo de trabajo.
 
 ---
@@ -13,12 +13,11 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 - **Marco Baltazar**
 - **Camila Araujo**
 - **Katherin Berrio**
-- 
 
 ---
 
 ## 📸 Fotos de los Integrantes
 
-| Integrante 1 | Integrante 2 |
-|--------------|--------------|
-| <img src="ruta/imagen1.jpg" alt="Integrante 1" width="200"/> | <img src="ruta/imagen2.jpg" alt="Integrante 2" width="200"/> |
+| Integrante 1 |
+|--------------|
+| <img src="ruta/imagen1.jpg" alt="Integrante 1" width="200"/> |
