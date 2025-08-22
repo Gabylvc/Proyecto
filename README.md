@@ -20,4 +20,4 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 
 | Grupo de trabajo|
 |--------------|
-| <img src="Imágenes/minecfraft.jpg" alt="foto" width="200"/> |
+| <img src="Imagenes/minecfraft.jpg" alt="foto" width="200"/> |
