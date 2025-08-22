@@ -7,7 +7,7 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 
 ##  Integrantes
 
-- **Goran Acurio Cabrera**  
+- **Goran Acurio Cabrera**  - goran.acurio@upch.pe
 - **Gabriela Barrios Cuentas**
 - **Jorge Briceño Hijar**
 - **Marco Baltazar**
