@@ -27,9 +27,9 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 ## Temática
 
 En este proyecto nos enfocamos en proporcionar una alternativa de movimiento en silla de ruedas para usuarios con lesiones medulares que cuentan con movilidad parcial en las extremidades superiores
-
+|--------------|
 | <img src="Imagenes/lesionM.png" alt="foto" width="400"/> |
-
+---
 ## Problemática
 El usuario sufrió una lesión medular C4 incompleta tipo C como producto de un accidente automovilístico. A raíz de esta lesión  la movilidad del paciente se encuentra comprometida, dependiendo completamente de una silla de ruedas para desplazarse. Sus extremidades inferiores no tienen rango de movilidad alguna, sin embargo tiene cierto rango de movimiento en sus brazos, lo que llevó a pensar que sería capaz de remar su silla de ruedas, sin embargo al no poder cerrar los dedos de las manos ni poder retraer completamente los brazos se le hizo imposible, por lo que ahora depende completamente de sus cuidadora principal.
 ## Justificación
@@ -38,8 +38,11 @@ El esfuerzo físico requerido para propulsar una silla mecánica puede resultar 
 En el caso específico de nuestro paciente, su limitada movilidad y fuerza en los brazos hace casi imposible el buen manejo de su silla de ruedas, necesidad en la cual nos enfocaremos.
 En tal sentido, es necesario buscar alternativas para las sillas de ruedas convencionales, ya que en el mercado ya existen dispositivos motorizados; sin embargo, suelen implicar un costo elevado, dificultades en el mantenimiento y poca adaptabilidad a contextos con recursos limitados.
 ## Solución
-Sistema de propulsión asistida basada en una palanca conectada al sobrearo de la silla de reudas.
+Sistema de propulsión asistida basada en una palanca conectada al sobrearo de la silla de ruedas.
+|--------------|
 | <img src="Imagenes/ensamblado.jfif" alt="foto" width="800"/> |
+---
+
 
 ## Referencias
 [1] A. Liampas, P. Neophytou, M. Sokratous, G. Varrassi, C. Ioannou, G. M. Hadjigeorgiou, and P. Zis, “Musculoskeletal Pain Due to Wheelchair Use: A Systematic Review and Meta-Analysis,” Pain Ther., vol. 10, no. 2, pp. 973–984, Dec. 2021, doi: 10.1007/s40122-021-00294-5. 
