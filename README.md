@@ -1,4 +1,4 @@
-# 🧬 Fundamentos de Biodiseño
+# 🧬 Fundamentos de Biodiseño - REMOOV
 
 Este proyecto forma parte del curso **Fundamentos de Biodiseño** del grupo 11.  
 A continuación, se presentan los integrantes del equipo de trabajo.
