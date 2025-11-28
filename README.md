@@ -27,6 +27,7 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 ## Temática
 
 En este proyecto nos enfocamos en proporcionar una alternativa de movimiento en silla de ruedas para usuarios con lesiones medulares que cuentan con movilidad parcial en las extremidades superiores
+
 | <img src="Imagenes/lesionM.png" alt="foto" width="400"/> |
 
 ## Problemática
