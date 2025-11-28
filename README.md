@@ -26,16 +26,19 @@ A continuación, se presentan los integrantes del equipo de trabajo.
 
 ## Temática
 
-En este proyecto nos enfocamos en la artritis reumatoide.
-| <img src="Imagenes/artritis.jpg" alt="foto" width="800"/> |
+En este proyecto nos enfocamos en proporcionar una alternativa de movimiento en silla de ruedas para usuarios con lesiones medulares que cuentan con movilidad parcial en las extremidades superiores
+| <img src="Imagenes/lesion.jpg" alt="foto" width="800"/> |
 
 ## Problemática
-La artritis reumatoide (AR) es una patología multifactorial autoinmune asociada con un proceso de inflamación crónico que afecta tanto articulaciones como órganos extrarticulares,[1] por lo que se considera una enfermedad sistemática. Asimismo, los síntomas del AR incluyen dolor, inflamación y rigidez en las articulaciones, las cuales al no ser tratadas en su debido tiempo, pueden generar deformación y limitación de movilidad afectando la calidad de vida de los pacientes.
+El usuario sufrió una lesión medular C4 incompleta tipo C como producto de un accidente automovilístico. A raíz de esta lesión  la movilidad del paciente se encuentra comprometida, dependiendo completamente de una silla de ruedas para desplazarse. Sus extremidades inferiores no tienen rango de movilidad alguna, sin embargo tiene cierto rango de movimiento en sus brazos, lo que llevó a pensar que sería capaz de remar su silla de ruedas, sin embargo al no poder cerrar los dedos de las manos ni poder retraer completamente los brazos se le hizo imposible, por lo que ahora depende completamente de sus cuidadora principal.
 ## Justificación
-A partir del análisis de varios estadísticos, se ha encontrado que la AR es un importante problema de salud pública. Debido a que, es la causa médica más común de pérdida de funcionalidad relacionada con la movilidad en los adultos en los Estados Unidos. Además, se ha encontrado que los costos de prevenir la AR mediante la reducción de factores de riesgo o tratamiento preventivo es mucho menor que los generados por la hospitalización y las cirugías.[1]
-La artritis reumatoide afecta aproximadamente a 23,7 millones de personas a nivel mundial, es decir, entre el 0.5% y 1% de la población mundial. [2]
+Las sillas de ruedas convencionales son ampliamente utilizadas gracias a su bajo costo, disponibilidad y accesibilidad. Sin embargo, existen usuarios con limitaciones en su capacidad motora que requieren asistencia para desplazarse perdiendo su autonomía y desarrollo en actividades cotidianas.
+El esfuerzo físico requerido para propulsar una silla mecánica puede resultar excesivo y puede llegar a generar fatiga muscular, lesiones por el sobreuso y desgaste prematuro en articulaciones; muestra de esto es el hecho de que, entre 31-73% de la población con lesiones en la médula espinal reportan dolor de hombro, muchas veces crónico [1]. A ello se le suma la necesidad recurrente de un acompañante, lo que restringe la independencia del usuario y limita su integración plena en la sociedad. 
+En el caso específico de nuestro paciente, su limitada movilidad y fuerza en los brazos hace casi imposible el buen manejo de su silla de ruedas, necesidad en la cual nos enfocaremos.
+En tal sentido, es necesario buscar alternativas para las sillas de ruedas convencionales, ya que en el mercado ya existen dispositivos motorizados; sin embargo, suelen implicar un costo elevado, dificultades en el mantenimiento y poca adaptabilidad a contextos con recursos limitados.
+## Solución
+Sistema de propulsión asistida basada en una palanca conectada al sobrearo de la silla de reudas.
+| <img src="Imagenes/ensamblado.jpg" alt="foto" width="800"/> |
 
-La artritis reumatoide afecta aproximadamente a 23,7 millones de personas a nivel mundial
 ## Referencias
-[1] A. Radu y S. Bungau, "Management of Rheumatoid Arthritis: An Overview", September. 2021, Cells, 10(11), 2857; https://doi.org/10.3390/cells10112857
-[2] D. Blanco, “Cambio de paradigma: el salto cuántico de la artritis reumatoidea, de las sales de oro y los tratamientos biológicos hasta las moléculas ‘de bajo peso,’” Infobae, Nov. 25, 2019. [Online]. Available: https://www.infobae.com/salud/2019/11/25/cambio-de-paradigma-el-salto-cuantico-de-la-artritis-reumatoidea-de-las-sales-de-oro-a-los-tratamientos-biologicos-hasta-las-moleculas-de-bajo-peso/#:~:text=Se%20estima%20que%20la%20AR%20afecta%20a,(0%2C6%20para%20varones%20y%203%2C2%20para%20mujeres).
+[1] A. Liampas, P. Neophytou, M. Sokratous, G. Varrassi, C. Ioannou, G. M. Hadjigeorgiou, and P. Zis, “Musculoskeletal Pain Due to Wheelchair Use: A Systematic Review and Meta-Analysis,” Pain Ther., vol. 10, no. 2, pp. 973–984, Dec. 2021, doi: 10.1007/s40122-021-00294-5. 
